@@ -5,3 +5,5 @@ esto lo he añadido para mostrar como hacer un commit desde github
 
 
 he añadido otra liunea para demostrar como funciona fetch
+
+he añadido otra luinea para mostrar como funciona pull
